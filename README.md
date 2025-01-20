@@ -1,4 +1,4 @@
-# Hello, I'm Jacob. Tech is kinda cool
+# Hello, I'm Jacob. Looking for New Grad SWE + Applied ML roles.
 
 [jacobfeng.com](https://jacobfeng.com)
 
