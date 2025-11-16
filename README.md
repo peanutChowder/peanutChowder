@@ -1,4 +1,4 @@
-# Hello, I'm Jacob. Looking for New Grad SWE + Applied ML roles.
+# Hello, I'm Jacob.
 
 [jacobfeng.com](https://jacobfeng.com)
 
